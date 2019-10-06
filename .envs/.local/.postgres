@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=mozzarella
+POSTGRES_USER=kAqssZDuyqOecFvWRGfSaGuCmhTNUKlL
+POSTGRES_PASSWORD=nmCX3Ey0joOoqFvcXEdilumjwuh3EI53yD3oQqWEebwKgwC2OJE4eby7SWJKXWmh
