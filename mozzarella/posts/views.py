@@ -1,3 +1,14 @@
 from django.shortcuts import render
+from django.views.generic import TemplateView, DetailView, ListView, RedirectView
+from .models import Post
 
-# Create your views here.
+
+class PostDetailView():
+    pass
+
+
+class PostListView():
+    pass
+
+
+
